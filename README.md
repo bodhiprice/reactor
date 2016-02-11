@@ -1,2 +1,2 @@
 # Reactor
-Goofing around with CosmicJS.
+Goofing around with CosmicJS and React.
