@@ -1,7 +1,7 @@
 {
-  "name": "jsStarter",
+  "name": "JS_Report",
   "version": "1.0.0",
-  "description": "JavaScript project starter",
+  "description": "Link sharing site that uses React and CosmicJS",
   "browserify": {
     "transform": "babelify"
   },
